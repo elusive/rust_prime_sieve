@@ -1,4 +1,5 @@
-# Prime Rust
+# Prime Rust  [![Build Status](https://travis-ci.org/elusive/rust_prime_sieve.svg?branch=master)](https://travis-ci.org/elusive/rust_prime_sieve)
+
 A prime number sieve that I can use to test the performance of rust.  I also intend to use the code to play with the asynchronous capabilities of rust.  The prime sieve itself is very simple and not optimized.  Based on the same on I have always used, [Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
 
 ## Getting Started
