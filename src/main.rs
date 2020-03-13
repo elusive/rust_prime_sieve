@@ -52,6 +52,6 @@ mod tests {
 
     #[test]
     fn test_primes_returns_expected_value() {
-        assert_eq(1, 1);
+        assert_eq!(1, 1);
     }
 }
